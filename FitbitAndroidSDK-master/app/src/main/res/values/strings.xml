@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FitbitIntegration</string>
+    <string name="fitbit_client_id" translatable="false">22BFJ8</string>
+    <string name="fitbit_client_secret" translatable="false">3946e7cf7b37014aba3e4f0ac416e44f</string>
+    <string name="tap_to_login">Tap to login</string>
+</resources>
